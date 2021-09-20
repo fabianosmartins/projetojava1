@@ -13,7 +13,8 @@ public class teste {
 		System.out.println("Hoje é dia " + date.getDate() + " de " +(date.getYear() + 1900));
 		
 		//System.out.println(date.getDate());
-					
+		
+		System.out.println("Teste comit");			
 
 	}
 
